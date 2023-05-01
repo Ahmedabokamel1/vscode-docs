@@ -9,6 +9,8 @@
     "markdown.validate.enabled": true,
     "markdown.validate.ignoredLinks": [
         "/Download",
-        "/insiders"
+        "/insiders",
+        "images/locales/german-language-pack.png",
+        "#multiple-languagespecific-editor-settings"
     ]
 }
